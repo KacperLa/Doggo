@@ -1,0 +1,28 @@
+{
+    "dolly": {
+        "enabled": true,
+        "back": {
+            "odrive_serial_number" : "2088387F304E",
+            "node_id_front" : "0x200",
+            "node_id_back" : "0x300",
+            "front_offset" : 0,
+            "back_offset" : 0
+        },
+        "left" : {
+            "odrive_serial_number" : "206E379F3548",
+            "node_id_front" : "0x3C0",
+            "node_id_back" : "0x380",
+            "front_offset" : 0,
+            "back_offset" : 0
+        },
+        "right" : {
+            "odrive_serial_number" : "2088387F304E",
+            "hall_offset" : 19084,
+            "theta_offset" : 350
+        }
+    },
+    "pedestal": {
+        "enabled": false,
+        "odrive_serial_number" : ""
+    }
+}
